@@ -2,7 +2,7 @@ import { Box, Flex, Heading, Button, Icon, Table, Thead, Tr, Th, Checkbox, Tbody
 import { RiAddLine, RiPencilLine } from "react-icons/ri";
 
 import { Header } from "../../components/Header";
-import { Sidebar } from "../../components/Form/Sidebar";
+import { Sidebar } from "../../components/Sidebar";
 import { Input } from "../../components/Form/Input";
 
 export default function CreateUser() {
